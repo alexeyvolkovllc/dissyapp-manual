@@ -27,4 +27,4 @@ With Dissy you can analyze such types of volumes:
 -          Flash drives
 -          External storage disk
 
-Site : dussyapp.com
+<p align="center"><a href="http://dussyapp.com">:globe_with_meridians: project page</a>
